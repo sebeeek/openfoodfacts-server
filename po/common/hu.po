@@ -1819,7 +1819,7 @@ msgid "Rotate right"
 msgstr "Forgatás jobbra"
 
 msgctxt "product_js_image_save"
-msgid "Validate and/or resize image"
+msgid "Select and/or resize image"
 msgstr "Kép érvényesítése és/vagy átméretezése"
 
 msgctxt "product_js_image_saved"

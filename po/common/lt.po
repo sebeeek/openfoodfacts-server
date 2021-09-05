@@ -1823,7 +1823,7 @@ msgid "Rotate right"
 msgstr "Pasukite į dešinę"
 
 msgctxt "product_js_image_save"
-msgid "Validate and/or resize image"
+msgid "Select and/or resize image"
 msgstr "Patvirtinkite ir (arba) pakeiskite dydį"
 
 msgctxt "product_js_image_saved"

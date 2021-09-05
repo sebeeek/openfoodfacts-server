@@ -1822,7 +1822,7 @@ msgid "Rotate right"
 msgstr "تدوير الحق"
 
 msgctxt "product_js_image_save"
-msgid "Validate and/or resize image"
+msgid "Select and/or resize image"
 msgstr "التحقق من صحة و / أو تغيير حجم الصورة"
 
 msgctxt "product_js_image_saved"

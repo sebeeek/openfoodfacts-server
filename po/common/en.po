@@ -1982,8 +1982,8 @@ msgid "Rotate right"
 msgstr "Rotate right"
 
 msgctxt "product_js_image_save"
-msgid "Validate and/or resize image"
-msgstr "Validate and/or resize image"
+msgid "Select and/or resize image"
+msgstr "Select and/or resize image"
 
 msgctxt "product_js_image_saved"
 msgid "Image saved"

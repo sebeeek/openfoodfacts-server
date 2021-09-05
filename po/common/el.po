@@ -1804,7 +1804,7 @@ msgid "Rotate right"
 msgstr "Περιστροφή δεξιά"
 
 msgctxt "product_js_image_save"
-msgid "Validate and/or resize image"
+msgid "Select and/or resize image"
 msgstr "Επιβεβαιώστε και/ή αναπροσαρμόστε το μέγεθος της εικόνας"
 
 msgctxt "product_js_image_saved"

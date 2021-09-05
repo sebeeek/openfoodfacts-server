@@ -1818,7 +1818,7 @@ msgid "Rotate right"
 msgstr "Iikot sa kanan"
 
 msgctxt "product_js_image_save"
-msgid "Validate and/or resize image"
+msgid "Select and/or resize image"
 msgstr "Patunayan at/o bagohin ang lakin ng imahe"
 
 msgctxt "product_js_image_saved"

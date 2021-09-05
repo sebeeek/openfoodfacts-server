@@ -1820,7 +1820,7 @@ msgid "Rotate right"
 msgstr "오른쪽으로 돌리기"
 
 msgctxt "product_js_image_save"
-msgid "Validate and/or resize image"
+msgid "Select and/or resize image"
 msgstr "사진 확인 또는 크기 조정하기"
 
 msgctxt "product_js_image_saved"

@@ -1822,7 +1822,7 @@ msgid "Rotate right"
 msgstr "右に回転"
 
 msgctxt "product_js_image_save"
-msgid "Validate and/or resize image"
+msgid "Select and/or resize image"
 msgstr "検証および/または画像のサイズを変更"
 
 msgctxt "product_js_image_saved"

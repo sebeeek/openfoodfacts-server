@@ -1824,7 +1824,7 @@ msgid "Rotate right"
 msgstr "Draai naar rechts"
 
 msgctxt "product_js_image_save"
-msgid "Validate and/or resize image"
+msgid "Select and/or resize image"
 msgstr "De foto goedkeuren en/of verkleinen"
 
 msgctxt "product_js_image_saved"

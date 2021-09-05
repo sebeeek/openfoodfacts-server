@@ -1815,7 +1815,7 @@ msgid "Rotate right"
 msgstr "Rotire la dreapta"
 
 msgctxt "product_js_image_save"
-msgid "Validate and/or resize image"
+msgid "Select and/or resize image"
 msgstr "Validează și/sau redimensionează imaginea"
 
 msgctxt "product_js_image_saved"

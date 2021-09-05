@@ -1818,7 +1818,7 @@ msgid "Rotate right"
 msgstr "右边旋转"
 
 msgctxt "product_js_image_save"
-msgid "Validate and/or resize image"
+msgid "Select and/or resize image"
 msgstr "验证和调整图片大小"
 
 msgctxt "product_js_image_saved"
